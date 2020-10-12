@@ -18,6 +18,7 @@ public class HomePage {
 
 	}
 
+	
 	@FindBy(id = "customer_login_link")
 	@CacheLookup
 	WebElement addinbutton;

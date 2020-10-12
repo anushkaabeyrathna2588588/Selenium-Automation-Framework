@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="test_selenium_mevan_project_v1_practice">
+
+	<listeners>
+		<listener class-name="com.test.anushka.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="ANFApp Test">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<!-- <class name="com.test.anushka.testCases.TC_LoginTest_001" /> -->
+			<class name="com.test.anushka.testCases.TC_AddNewAdressTest_002" />
+
+
+		</classes>
+
+	</test>
+
+</suite>

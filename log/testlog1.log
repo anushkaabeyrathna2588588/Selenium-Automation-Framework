@@ -1,0 +1,48 @@
+2020-10-10 09:53:39,329 [main] INFO facebook - URL is opened
+2020-10-10 09:53:39,478 [main] INFO facebook - Enter Username
+2020-10-10 09:53:39,530 [main] INFO facebook - Enter Password
+2020-10-10 09:56:07,376 [main] INFO facebook - URL is opened
+2020-10-10 09:56:07,499 [main] INFO facebook - Enter Username
+2020-10-10 09:56:07,539 [main] INFO facebook - Enter Password
+2020-10-11 10:07:54,372 [main] INFO facebook - URL is opened
+2020-10-11 10:07:54,525 [main] INFO facebook - Enter Username
+2020-10-11 10:07:54,610 [main] INFO facebook - Enter Password
+2020-10-11 10:07:56,462 [main] INFO facebook - clikSubmit
+2020-10-11 10:07:56,693 [main] INFO facebook - Login test failed
+2020-10-11 10:21:22,000 [main] INFO facebook - URL is opened
+2020-10-11 10:21:22,131 [main] INFO facebook - Enter Username
+2020-10-11 10:21:22,232 [main] INFO facebook - Enter Password
+2020-10-11 10:21:25,113 [main] INFO facebook - clikSubmit
+2020-10-11 13:59:54,308 [main] INFO facebook - Enter Username
+2020-10-11 13:59:54,364 [main] INFO facebook - Enter Password
+2020-10-11 13:59:56,388 [main] INFO facebook - clikSubmit
+2020-10-11 14:02:55,289 [main] INFO facebook - Enter Username
+2020-10-11 14:02:55,342 [main] INFO facebook - Enter Password
+2020-10-11 14:02:57,426 [main] INFO facebook - clikSubmit
+2020-10-11 14:05:46,731 [main] INFO facebook - Enter Username
+2020-10-11 14:05:46,800 [main] INFO facebook - Enter Password
+2020-10-11 14:05:48,570 [main] INFO facebook - clikSubmit
+2020-10-11 14:05:50,966 [main] INFO facebook - clikSubmit
+2020-10-11 14:10:52,344 [main] INFO facebook - Enter Username
+2020-10-11 14:10:52,409 [main] INFO facebook - Enter Password
+2020-10-11 14:10:54,582 [main] INFO facebook - clikSubmit
+2020-10-11 14:10:56,707 [main] INFO facebook - clikSubmit
+2020-10-11 14:14:02,245 [main] INFO facebook - Enter Username
+2020-10-11 14:14:02,313 [main] INFO facebook - Enter Password
+2020-10-11 14:14:05,080 [main] INFO facebook - clikSubmit
+2020-10-11 14:14:07,518 [main] INFO facebook - clikViewAddressSubmit
+2020-10-11 14:15:44,300 [main] INFO facebook - Enter Username
+2020-10-11 14:15:44,368 [main] INFO facebook - Enter Password
+2020-10-11 14:15:46,691 [main] INFO facebook - clikSubmit
+2020-10-11 14:15:50,744 [main] INFO facebook - clikViewAddressSubmit
+2020-10-11 14:15:51,083 [main] INFO facebook - clikaddNewAdressesSubmit
+2020-10-11 21:02:22,416 [main] INFO facebook - Enter Username
+2020-10-11 21:02:22,618 [main] INFO facebook - Enter Password
+2020-10-11 21:02:25,971 [main] INFO facebook - clikSubmit
+2020-10-11 21:02:28,910 [main] INFO facebook - clikViewAddressSubmit
+2020-10-11 21:02:29,225 [main] INFO facebook - clikaddNewAdressesSubmit
+2020-10-12 06:32:14,767 [main] INFO ANF - Enter Username
+2020-10-12 06:32:14,875 [main] INFO ANF - Enter Password
+2020-10-12 06:32:17,992 [main] INFO ANF - clikSubmit
+2020-10-12 06:32:20,340 [main] INFO ANF - clikViewAddressSubmit
+2020-10-12 06:32:20,687 [main] INFO ANF - clikaddNewAdressesSubmit
